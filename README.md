@@ -13,5 +13,5 @@ Nesse projeto para conseguir realizar esse CRUD foi utilizado IndexedDB.
 
 Se gostou do projeto peço que se subscrevam e dêem like.
 
-LinkedIn: http://www.linkedin.com/in/lucinaldo-...
+LinkedIn: www.linkedin.com/in/lucinaldo-costa
 GitHub: https://github.com/lucinaldocosta
